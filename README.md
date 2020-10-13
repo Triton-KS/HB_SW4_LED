@@ -9,7 +9,7 @@ In einem frühen Stadium wurden einfach auf der orginalen Platine die entspreche
 Um die Anzeige und Bedienung einfacher an das Frontpanel der Steckdosenleiste zu bekommen, 
 habe ich diese Platine erstellt. 
 Die U1 und U2 können z.B. mit DG308 2,54-8 oder anderen 8 poligen Klemmen im Rastermaß 2,54 mm bestückt werden.
-ST4 und ST6 sind 5 polige gewinkelte Stiftleisten, die z.B. vom orginal Bausatz verwendet werden können.
+ST4 und ST6 sind 5 polige gewinkelte Stiftleisten, die z.B. vom orginalen Bausatz verwendet werden können.
 (Leider ist hier auf dem 3D-Bild die falsche Einbaulage dargestellt. Die Stiftleisten müssen von der Rückseite montiert werden)
 
 R1 bis R4 sind Widerstände 220 Ω/SMD/1206
