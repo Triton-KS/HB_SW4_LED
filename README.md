@@ -15,4 +15,6 @@ ST4 und ST6 sind 5 polige gewinkelte Stiftleisten, die z.B. vom orginalen Bausat
 R1 bis R4 sind Widerstände 220 Ω/SMD/1206
 C1 bis C4 sind Kondensatoren 100 nF/SMD/1206
 
+P.S. ist meine erste Platine in dieser Art daher sicher nicht perfekt oder 100% richtig
+
 ![Front](Images/HB_SW4_LED_front_v1.png)
